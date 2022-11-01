@@ -24,7 +24,7 @@ on:
         options:
         - qa
         - staging
-        - production 
+        - prod
       promote_container:
         description: 'Promote container tag'
         required: true 
